@@ -1,0 +1,35 @@
+header {
+    background-color: #de533d;
+    /* A deep blue color */
+    color: white;
+    padding: 10px 20px;
+  }
+h1{
+    font-size: 2rem;
+    font-style: italic;
+    color: brown;
+}
+p {
+    color:blueviolet;
+    line-height: 1.5;
+    margin-bottom: 1em;
+  }
+  figure img {
+    width: 100%;
+    border-radius: 1rem;
+    border: 0.3rem solid rgba(255, 165, 0, 0.7);
+  }
+  footer {
+    background-color: #333333;
+    /* Very dark gray, almost black */
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+  }
+  .child{
+    background-color:bisque;
+    padding: 20%;
+    width:50%;
+    box-sizing: border-box;
+
+  }
